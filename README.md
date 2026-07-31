@@ -1,0 +1,2 @@
+# snippets-nextjs
+nextjs project
